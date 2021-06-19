@@ -7,8 +7,8 @@
 ---
 [Аперитив](#aperitif)
 * [Стиль кода](../way/info/StyleInfo.md)
-* методы класса Object
-* ООП
+* [Методы класса Object](../way/info/ObjectInfo.md)
+* [ООП](../way/info/OOPInfo.md)
 ---
 [Завтрак](#breakfast)
 * Библиотеки

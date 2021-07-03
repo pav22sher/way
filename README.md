@@ -20,7 +20,7 @@
 * Stream API
 * Multithreading
 * Input/Output
-* Аннотации
+* [Аннотации](AnnotationInfo.md)
 ---
 <span style="color: #1E90FF">Обед</span>
 * паттерны проектирования

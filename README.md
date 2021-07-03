@@ -13,14 +13,14 @@
 * [ООП](OOPInfo.md)
 ---
 <span style="color: #1E90FF">Завтрак</span>
-* Библиотеки
-* Аннотации
+* [Основные Java пакеты](PackageInfo.md)
 * Generics
 * Java Collections Framework
 * Lambda
 * Stream API
 * Multithreading
 * Input/Output
+* Аннотации
 ---
 <span style="color: #1E90FF">Обед</span>
 * паттерны проектирования

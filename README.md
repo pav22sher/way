@@ -6,7 +6,7 @@
 
 ---
 <span style="color: #1E90FF">Аперитив</span>
-* [Цитата про программирование (если станет скучно)](QuoteInfo.md)
+* [Цитата про программирование](QuoteInfo.md)
 * [Основные понятия](BasicInfo.md)
 * [Стиль кода](StyleInfo.md)
 * [Методы класса Object](ObjectInfo.md)
@@ -14,15 +14,16 @@
 ---
 <span style="color: #1E90FF">Завтрак</span>
 * [Основные Java пакеты](PackageInfo.md)
-* Generics
-* Java Collections Framework
-* Lambda
-* Stream API
-* Multithreading
-* Input/Output
+* [Обобщенное программирование](GenericsInfo.md)
+* [Коллекции](CollectionInfo.md)
+* [Функциональное программирование](LambdaInfo.md)
+* [Stream API](StreamInfo.md)
+* [Многопоточность](MultithreadInfo.md)
+* [Input/Output](IOInfo.md)
 * [Аннотации](AnnotationInfo.md)
 ---
 <span style="color: #1E90FF">Обед</span>
+* Основы WEB
 * паттерны проектирования
 * spring
 * hibernate
@@ -32,6 +33,7 @@
 * html
 * css
 * js
+* AngularJS
 ---
 <span style="color: #1E90FF">Перекус</span>
 * intellij idea

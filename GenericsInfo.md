@@ -2,6 +2,10 @@
 
 ####Основы
 
+>Дженерики (обобщения) — это особые средства языка Java для реализации 
+>обобщённого программирования: особого подхода к описанию данных и алгоритмов, 
+>позволяющего работать с различными типами данных без изменения их описания.
+
 Примеры:
 в классе
 ```java
@@ -62,7 +66,7 @@ public class Pair<K,V> {
 Примеры:
 
 ```java
-public class Stack {
+public class Stack<E> {
     private E[] stackContent;
 
     public Stack(int capacity) {
@@ -118,7 +122,13 @@ public class MyComparator implements Comparator<Integer> {
 }
 ```
 
+[Основная информация 1](http://www.quizful.net/post/java-generics-tutorial)
 
-[Основная информация](https://coderlessons.com/articles/java/kratkoe-rukovodstvo-po-java-generics)
+[Основная информация 2](https://annimon.com/article/2637)
+
+[Основная информация 3](https://coderlessons.com/articles/java/kratkoe-rukovodstvo-po-java-generics)
+
 [Стирание типов](https://javascopes.com/java-type-erasure-febcf174/)
+
 [Методы мосты](http://www.linkex.ru/java/methods-bridges.php)
+

@@ -35,6 +35,7 @@
 * js
 * Bootstrap
 * AngularJS
+* jQuery
 ---
 <span style="color: #1E90FF">Перекус</span>
 * intellij idea

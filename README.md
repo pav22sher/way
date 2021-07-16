@@ -33,6 +33,7 @@
 * html
 * css
 * js
+* Bootstrap
 * AngularJS
 ---
 <span style="color: #1E90FF">Перекус</span>

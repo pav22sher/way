@@ -137,7 +137,7 @@ do(){
 if(age > 18){} //плохо
 
 final int MAX_AGE = 18;
-if(MAX_AGE > 18){} //плохо
+if(MAX_AGE > 18){} //хорошо
 ```
 
 
@@ -148,9 +148,9 @@ if(MAX_AGE > 18){} //плохо
 >Существует lowerCamelCase(методы в java) и UpperCamelCase(классы в java).
 
 >Snake case (snake_case) - «Змеиный регистр» — заменяет пробелы на символ подчеркивания.
->Существует lower_case_snake_case(таблицы бд) и UPPER_CASE_SNAKE_CASE(SCREAMING_SNAKE_CASE константы)
+>Существует lower_case_snake_case(таблицы бд) и UPPER_CASE_SNAKE_CASE(константы)
 
->Kebab case (kebab-case) - «Змеиный регистр» - заменяет пробелы на символ дефис.
+>Kebab case (kebab-case) - «Шашлычный регистр» - заменяет пробелы на символ дефис.
 >Используется в URL-адресах (http://localhost:8080/test-test)
 
 Тип переменной|Правила именования|Примеры

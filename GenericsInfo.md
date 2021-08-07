@@ -47,10 +47,44 @@ public class Pair<K,V> {
 ```
 
 ####Ограничения
-
+Ограничение параметра одним классом:
+```java
+public class NumberContainer<T extends Number>{}
+```
+Ограничение параметра может быть несколькими интерфейсами, но только один классом:
+```java
+public class NumberContainer<T extends Number&Serializable&Cloneable>{}
+```
 
 ####Wildcards
-
+>Wildcards обозначаются знаком вопроса <?>.
+```java
+public class Main{
+  public static void main(String[] args) {
+    printList(new ArrayList<Integer>());
+    printList(new ArrayList<String>());
+  }
+  //вывод списка любых объектов
+  static void printList(List<?> list) {
+    for (var val : list) { 
+        System.out.println(val);
+    }
+  }
+}
+```
+Ограничения Wildcards:
+Upper Bounded Wildcards - <? extends T> -
+может принимать на вход объекты класса T и любого другого дочернего класса.
+Lower Bounded Wildcards - <? super T> - 
+может принимать на вход объекты класса T и любого другого родительского класса.
+```java
+public class Main{
+  public static void main(String[] args) {
+    List<? extends Number> numList = new ArrayList<Integer>();
+    List<? super Integer> numberList = new ArrayList<Number>();
+  }
+}
+```
 
 ####Стирание типов
 >Стирание типов (type erasure) - процесс удаления из байт-кода класс-файла информацию 

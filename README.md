@@ -25,9 +25,10 @@
 <span style="color: #1E90FF">Обед</span>
 * Основы WEB
 * паттерны проектирования
-* spring
-* hibernate
 * sql
+* hibernate
+* spring
+
 ---
 <span style="color: #1E90FF">Ужин</span>
 * html

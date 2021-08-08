@@ -11,15 +11,16 @@
 * [Стиль кода](StyleInfo.md)
 * [Методы класса Object](ObjectInfo.md)
 * [ООП](OOPInfo.md)
+* [Ошибки](ExceptionInfo.md)
 ---
 <span style="color: #1E90FF">Завтрак</span>
 * [Основные Java пакеты](PackageInfo.md)
 * [Обобщенное программирование](GenericsInfo.md)
 * [Коллекции](CollectionInfo.md)
 * [Функциональное программирование](LambdaInfo.md)
-* [Stream API](StreamInfo.md)
+* [Потоки данных](StreamInfo.md)
 * [Многопоточность](MultithreadInfo.md)
-* [Input/Output](IOInfo.md)
+* [Потоки ввода/вывода](IOInfo.md)
 * [Аннотации](AnnotationInfo.md)
 ---
 <span style="color: #1E90FF">Обед</span>

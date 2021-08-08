@@ -36,6 +36,7 @@
 <span style="color: #1E90FF">Ужин</span>
 * html
 * css
+* sass
 * js (JavaScript)
 * ts (TypeScript)
 * Bootstrap

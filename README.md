@@ -12,6 +12,7 @@
 * [Методы класса Object](ObjectInfo.md)
 * [ООП](OOPInfo.md)
 * [Ошибки](ExceptionInfo.md)
+
 ---
 <span style="color: #1E90FF">Завтрак</span>
 * [Основные Java пакеты](PackageInfo.md)
@@ -22,6 +23,7 @@
 * [Многопоточность](MultithreadInfo.md)
 * [Потоки ввода/вывода](IOInfo.md)
 * [Аннотации](AnnotationInfo.md)
+
 ---
 <span style="color: #1E90FF">Обед</span>
 * Основы WEB
@@ -34,10 +36,13 @@
 <span style="color: #1E90FF">Ужин</span>
 * html
 * css
-* js
+* sass
+* js (JavaScript)
+* ts (TypeScript)
 * Bootstrap
-* AngularJS
+* Angular
 * jQuery
+
 ---
 <span style="color: #1E90FF">Перекус</span>
 * intellij idea

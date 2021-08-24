@@ -26,27 +26,26 @@
 
 ---
 <span style="color: #1E90FF">Обед</span>
-* Основы WEB
-* паттерны проектирования
-* sql
-* hibernate
-* spring
+* [Тестирование](TestInfo.md)
+* [Паттерны проектирования](PatternInfo.md)
+* [Бд](DBInfo.md)
+* [Hibernate]
+* [Spring]
 
 ---
 <span style="color: #1E90FF">Ужин</span>
-* html
-* css
-* sass
-* js (JavaScript)
-* ts (TypeScript)
+* Основы WEB
+* html/css/js
+* html5/sass/ts
 * Bootstrap
-* Angular
 * jQuery
+* Angular
 
 ---
 <span style="color: #1E90FF">Перекус</span>
 * intellij idea
+* Chrome DevTools
 * maven
 * git
-* Chrome DevTools
 * linux
+* метод слепой печати
